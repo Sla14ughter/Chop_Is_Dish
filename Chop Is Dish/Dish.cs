@@ -12,11 +12,9 @@ namespace Chop_Is_Dish
         {
             Name = properties[0].ToString();
             Photo = (byte[])properties[1];
-            Git = 0;
         }
         public string Name { get; set; }
         public byte[] Photo { get; set; }
-        public int Git { get; set; }
 
     }
 }
