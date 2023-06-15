@@ -1,0 +1,111 @@
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\obj\Debug\MainWindow.g.cs
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\obj\Debug\App.g.cs
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish_MarkupCompile.cache
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish_MarkupCompile.lref
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\bin\Debug\Chop Is Dish.exe.config
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\bin\Debug\Chop Is Dish.exe
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\bin\Debug\Chop Is Dish.pdb
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\obj\Debug\MainWindow.baml
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.g.resources
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\obj\Debug\Chop_Is_Dish.Properties.Resources.resources
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.csproj.GenerateResource.cache
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.csproj.CoreCompileInputs.cache
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.exe
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.pdb
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\obj\Debug\Dishes.g.cs
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\obj\Debug\Dishes.baml
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\obj\Debug\Ingredients.g.cs
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\obj\Debug\Ingredients.baml
+C:\Users\is20-2-tv\source\repos\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.csproj.AssemblyReference.cache
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\bin\Debug\Chop Is Dish.exe.config
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\bin\Debug\Chop Is Dish.exe
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\bin\Debug\Chop Is Dish.pdb
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.csproj.AssemblyReference.cache
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\obj\Debug\Dishes.g.cs
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\obj\Debug\Ingredients.g.cs
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\obj\Debug\MainWindow.g.cs
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\obj\Debug\App.g.cs
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish_MarkupCompile.cache
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish_MarkupCompile.lref
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\obj\Debug\Dishes.baml
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\obj\Debug\Ingredients.baml
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\obj\Debug\MainWindow.baml
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.g.resources
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\obj\Debug\Chop_Is_Dish.Properties.Resources.resources
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.csproj.GenerateResource.cache
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.csproj.CoreCompileInputs.cache
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.exe
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.pdb
+C:\Users\is20-2-tv\Desktop\Chop Is Dish\Chop Is Dish\obj\Debug\App.baml
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\bin\Debug\Chop Is Dish.exe.config
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\bin\Debug\Chop Is Dish.exe
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\bin\Debug\Chop Is Dish.pdb
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\bin\Debug\MySqlConnector.dll
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\bin\Debug\System.Buffers.dll
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\bin\Debug\System.Memory.dll
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\bin\Debug\MySqlConnector.xml
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\bin\Debug\System.Buffers.xml
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\bin\Debug\System.Memory.xml
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.csproj.AssemblyReference.cache
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.csproj.SuggestedBindingRedirects.cache
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\Dishes.g.cs
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\Ingredients.g.cs
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\MainWindow.g.cs
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\App.g.cs
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish_MarkupCompile.cache
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish_MarkupCompile.lref
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\App.baml
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\Dishes.baml
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\Ingredients.baml
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\MainWindow.baml
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.g.resources
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\Chop_Is_Dish.Properties.Resources.resources
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.csproj.GenerateResource.cache
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.csproj.CoreCompileInputs.cache
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.csproj.CopyComplete
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.exe
+C:\Users\is20-2-tv\Downloads\Chop Is Dish\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.pdb
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.csproj.AssemblyReference.cache
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.csproj.SuggestedBindingRedirects.cache
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\Dishes.g.cs
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\Ingredients.g.cs
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\MainWindow.g.cs
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\App.g.cs
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish_MarkupCompile.cache
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish_MarkupCompile.lref
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.exe
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.pdb
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\bin\Debug\Chop Is Dish.exe.config
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\bin\Debug\Chop Is Dish.exe
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\bin\Debug\Chop Is Dish.pdb
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\bin\Debug\MySqlConnector.dll
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\bin\Debug\System.Buffers.dll
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\bin\Debug\System.Memory.dll
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\bin\Debug\System.Numerics.Vectors.dll
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\bin\Debug\MySqlConnector.xml
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\bin\Debug\System.Buffers.xml
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\bin\Debug\System.Memory.xml
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\bin\Debug\System.Numerics.Vectors.xml
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\App.baml
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\Dishes.baml
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\Ingredients.baml
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\MainWindow.baml
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.g.resources
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\Chop_Is_Dish.Properties.Resources.resources
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.csproj.GenerateResource.cache
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.csproj.CoreCompileInputs.cache
+D:\Мои проекты\Chop Is Dish\Chop Is Dish\obj\Debug\Chop Is Dish.csproj.CopyComplete

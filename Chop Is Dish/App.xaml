@@ -1,0 +1,15 @@
+﻿<Application x:Class="Chop_Is_Dish.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Chop_Is_Dish"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="MainPink" Color="#fed7c1"/>
+        <SolidColorBrush x:Key="MainOrange" Color="#fdb249"/>
+        <SolidColorBrush x:Key="MainPurple" Color="#eed4fe"/>
+        <Style x:Key="BaseOliveButton">
+            <Setter Property="Control.Background" Value="#d5c847" />
+            <Setter Property="Control.Margin" Value="10" />
+        </Style>
+    </Application.Resources>
+</Application>
