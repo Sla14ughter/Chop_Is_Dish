@@ -35,20 +35,14 @@ namespace Chop_Is_Dish
                 InitializeComponent();
                 sqlConn = new MySqlConnection(connString);
                 sqlConn.Open();
-                MySqlDataReader reader = new MySqlCommand("select Name from Category", sqlConn).ExecuteReader();
-                while (reader.Read()) CmbCategory.Items.Add(reader.GetString("Name"));
-                reader.Close();
+                DataTable dt = new DataTable();
+                new MySqlDataAdapter("select * from Category", sqlConn).Fill(dt);
+                CmbCategory.ItemsSource = dt.DefaultView;
                 CmbCategory.SelectedItem = CmbCategory.Items[0];
                 CmbCategory_SelectionChanged(CmbCategory, null);
             }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"{ex.Message}\n\n{ex.StackTrace}");
-            }
-            finally 
-            { 
-                sqlConn.Close(); 
-            }
+            catch (Exception ex) { MessageBox.Show($"{ex.Message}\n\n{ex.StackTrace}"); }
+            finally { sqlConn.Close(); }
         }
 
         private void CmbCategory_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -56,34 +50,31 @@ namespace Chop_Is_Dish
             try
             {
                 if (sqlConn.State == ConnectionState.Closed) sqlConn.Open();
-                MySqlDataReader reader = new MySqlCommand($"select d.Name, Photo from Dish d join Category c on d.CategoryId = c.Id where c.Name = '{CmbCategory.SelectedValue}'", sqlConn).ExecuteReader();
-                object[] properties = new object[2];
-                LViewDishes.Items.Clear();
-                while (reader.Read())
-                {
-                    reader.GetValues(properties);
-                    LViewDishes.Items.Add(new Dish(properties));
-                }
-                reader.Close();
+                DataTable dt = new DataTable();
+                new MySqlDataAdapter($"select Name, Photo from Dish where CategoryId = '{CmbCategory.SelectedValue}' and Name like ('%{TxtSearch.Text}%')", sqlConn).Fill(dt);
+                LViewDishes.ItemsSource = dt.DefaultView;
+                TxtSearch.Text = "";
             }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"{ex.Message}\n\n{ex.StackTrace}");
-            }
-            finally
-            {
-                sqlConn.Close();
-            }
+            catch (Exception ex) { MessageBox.Show($"{ex.Message}\n\n{ex.StackTrace}"); }
+            finally { sqlConn.Close(); }
         }
 
         private void TxtSearch_TextChanged(object sender, TextChangedEventArgs e)
         {
-
+            try
+            {
+                if (sqlConn.State == ConnectionState.Closed) sqlConn.Open();
+                DataTable dt = new DataTable();
+                new MySqlDataAdapter($"select Name, Photo from Dish where CategoryId = '{CmbCategory.SelectedValue}' and Name like ('%{TxtSearch.Text}%')", sqlConn).Fill(dt);
+                LViewDishes.ItemsSource = dt.DefaultView;
+            }
+            catch (Exception ex) { MessageBox.Show($"{ex.Message}\n\n{ex.StackTrace}"); }
+            finally { sqlConn.Close(); }
         }
 
         private void NavigateToSelectedDish(object sender, MouseButtonEventArgs e)
         {
-            //onclick
+            //todo: Обработать нажатие на блюдо
         }
     }
 }

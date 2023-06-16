@@ -16,9 +16,9 @@
 
         <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
             <Label>Категория:</Label>
-            <ComboBox Name="CmbCategory" SelectionChanged="CmbCategory_SelectionChanged"/>
+            <ComboBox Name="CmbCategory" SelectionChanged="CmbCategory_SelectionChanged" DisplayMemberPath="Name" SelectedValuePath="Id" Width="166"/>
             <Label Margin="35,0,0,0">Наименование:</Label>
-            <TextBox x:Name="TxtSearch" TextChanged="TxtSearch_TextChanged" ></TextBox>
+            <TextBox x:Name="TxtSearch" TextChanged="TxtSearch_TextChanged" Width="184" ></TextBox>
         </StackPanel>
 
         <ListView Grid.Row="2" x:Name="LViewDishes" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
